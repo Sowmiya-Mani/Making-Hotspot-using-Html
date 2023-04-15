@@ -10,15 +10,14 @@ span{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
     font-style: bold;
 }
-.con2 p{
-    color:yellow;
-    padding: 200px;
+.con2 h2{
+    color:rgb(25, 165, 229);
+    padding: 150px;
     font-size: 50px;
 }
-.con2 h2{
-    color: black;
-    padding: 150px;
-    font-size: 35px;
-    margin-bottom: 200px;
+.con2 p{
+    color: rgb(202, 218, 25);
+    font-size: 40px;
+    padding: 10px;
+    margin-bottom: 300px;
 }
-    
