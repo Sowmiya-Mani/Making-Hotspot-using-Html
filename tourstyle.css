@@ -39,9 +39,11 @@ h1 span{
 }
 .content h2{
     font-size: 50px;
-    color:rgb(231, 250, 31);
+    color:rgb(254, 254, 251);
     text-align: center;
 }
-.content ul:hover{
-    
+.heading h4{
+    color:rgb(20, 191, 217);
+    margin-left: 100px;
+    font-style: bold;
 }
