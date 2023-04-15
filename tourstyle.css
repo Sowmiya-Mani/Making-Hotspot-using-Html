@@ -1,0 +1,47 @@
+.head{
+    display: flex;
+    background-color:rgb(67,89,90);
+    margin-bottom: 10px;
+}
+
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(241, 231, 240);
+
+}
+h1{
+ background-color: cadetblue;
+ font-family:'Times New Roman', Times, serif;
+ font-size: 60px;
+ color: rgb(22, 107, 18);
+ margin-bottom: 15px;
+}
+.content{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:rgb(243, 243, 219);
+    text-decoration: none;
+
+}
+
+h1 span{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px ;
+    color: yellow;
+    
+}
+.content ul{
+    text-align: center;
+    list-style: none;
+    color:blanchedalmond;
+    margin-bottom: 50px;
+}
+.content h2{
+    font-size: 50px;
+    color:rgb(231, 250, 31);
+    text-align: center;
+}
+.content ul:hover{
+    
+}

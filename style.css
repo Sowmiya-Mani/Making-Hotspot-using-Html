@@ -1,0 +1,17 @@
+.imgsty{
+
+    background-color:rgb(67,89,90);
+    display: flex;
+    
+}
+span{
+    color: white;
+    font-size: 70px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-style: bold;
+}
+.con2 p{
+    color:yellow;
+    padding: 200px;
+    font-size: 50px;
+}
